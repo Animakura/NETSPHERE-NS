@@ -1,0 +1,10 @@
+{
+  "AI": "https://ai.bunnii.net",
+  "API": "https://api.netsphere.moe",
+  "Gateway": "https://gateway.netsphere.moe",
+  "PrimaryCDN": "https://cdn.bunnii.net",
+  "SecondaryCDN": "https://cdn1.bunnii.net",
+  "StreamingCDN": "https://streamingcdn.miaa.dev",
+  "WWW": "https://netsphere.moe",
+  "Version": 12
+}
